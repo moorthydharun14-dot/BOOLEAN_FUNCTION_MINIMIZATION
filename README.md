@@ -35,16 +35,20 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+Developed by: RegisterNumber:25018453
 
 
 **RTL realization**
 
 **Output:**
+![ex2 1](https://github.com/user-attachments/assets/5d867b17-641d-4824-ac44-8197445b0916)
+![ex2 2](https://github.com/user-attachments/assets/b6bba13f-eb53-4279-a440-8d57ea2e6997)
 
 **RTL**
 
 **Timing Diagram**
+![ex2 3](https://github.com/user-attachments/assets/aeb512cc-91bd-4504-bc9a-c8a2bda5b5f9)
+![ex2 4](https://github.com/user-attachments/assets/ab488048-0320-4fb7-be0e-23115a7b9076)
 
 **Result:**
 
